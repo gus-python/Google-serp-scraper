@@ -18,3 +18,6 @@ Ferramenta de automação web para extrair os 10 primeiros resultados orgânicos
 4. Aguarda os resultados carregarem completamente
 5. Extrai os títulos e links dos 10 primeiros resultados orgânicos
 6. Salva tudo em um arquivo Google_top_10.csv
+
+AVISO:
+Este projeto foi desenvolvido para fins educacionais e de portfólio. O Google pode bloquear requisições automatizadas via CAPTCHA. As classes CSS utilizadas nos seletores podem mudar com atualizações do Google, exigindo ajustes no código.
